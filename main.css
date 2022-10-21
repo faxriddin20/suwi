@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    width: 1920px;
+    margin: 0 auto;
+
+}
+
+.container {
+    text-align: center;
+}
+
+/* .class */
+/* .left */
+.left {
+    width: 375px;
+    height: 2295px;
+
+}
+
+.left div {
+    padding-bottom: 30px;
+}
+
+.left img {
+    padding-left: 125px;
+}
+
+.left h2 {
+    padding-left: 125px;
+}
+
+.left .card {
+    text-align: center;
+    width: 160px;
+    height: 570px;
+    padding: 31px 31px 1978px 129px;
+
+
+}
+
+.card a {
+    text-decoration: none;
+    color: #000000;
+    padding-left: 1rem;
+
+}
+
+.card div {
+    margin-bottom: 30px;
+    display: flex;
+
+}
+
+.card img {
+    padding-left: .5rem;
+}
+
+/* .main */
+.main {
+    width: 1170px;
+    height: 2295px;
+    background-color: #F2F2F2;
+}
+
+.header div {
+    display: flex;
+    padding-left: 41px;
+}
+
+.header a,
+h3 {
+    padding-right: 990px;
+    display: inline-block;
+}
+
+.header a {
+    color: orange;
+}
+
+.location {
+    margin-left: 233px;
+    margin-top: -70px;
+}
+
+.location div {
+    margin: 0;
+    padding: 0;
+}
+
+.search {
+    margin-left: 700px;
+    display: flex;
+    gap: 30px;
+    margin-left: 806px;
+    align-items: center;
+    margin-top: -20px;
+}
+
+
+.search .search-icon {
+
+    margin-left: -950px;
+}
+
+.search-icon img:hover {
+    opacity: 110%;
+    transition: .3s;
+}
+
+.main .first-png {
+    width: 950px;
+    height: 470px;
+    margin-left: 110px;
+    margin-top: 70px;
+    border-radius: 5px;
+}
+
+.eats-first {
+    margin-top: 30px;
+}
+
+.eats-second {
+    margin-top: 20px;
+    gap: 30px;}
+
+.pizza-png {
+    width: 450px;
+    height: 200px;
+}
+
+.meat-png {
+    width: 470px;
+    height: 200px;
+}
+.writes{
+    display: flex;
+    gap: 30px;
+    margin-left: 120px;
+    margin-top: 52px;
+}
+.information-first{
+    margin-left: -30px;
+    margin-top: 30px;
+}
+.information-first a{
+    margin-left: 30px;
+}
+.strelka1{
+     margin-top: -20px;
+}
+.content-box{
+ margin-left: 50px;
+}
+.box-second{
+    margin-top: 30px;
+    color: orange;
+    gap: 10px;
+    display: flex;
+    margin-left: 512px;
+}
+.Подробнее{
+    text-decoration: none;
+    color: orange;
+}
+ 
+/* .right */
+.right div {
+    width: 375px;
+    height: 2295px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
